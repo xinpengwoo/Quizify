@@ -29,7 +29,7 @@ Students and learners often struggle to reinforce their understanding of various
 
 # Demo 📷
 
-A short introduction video by Loom
+A short introduction video hosted on Loom:
 
 [![Watch the video](assets/video_thumbnail.png)](https://www.loom.com/share/e3587cd1fec14d70bc0fd6e39a1585f2)
 
