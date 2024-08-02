@@ -2,10 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,<base64-encoded-logo>" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KPHBhdGggZD0iTTAgNjRjMC00LjA0NiAyLjAzMS03Ljk2IDUuMzQzLTEwLjAzOEw1Mi4zNDMgMy4xNTNDNTQuMzc0IDIuMDQ2IDU2LjY5NyAxLjQ0MSA1OSAxLjQ0MXYzMkwzNiA2NGgyNlY0NGg0MHYyMEg3Mi4zNDNMMTAyLjY1NyA5NC42MzhDOTkuMzQ2IDk2LjY0IDk3IDk5LjU1NCA5NyAxMjNINDYuNjU3TDMuNjU3IDg5LjYzOEMxLjM0NiA4Ny42NCAwIDgxLjgzOCAwIDc2di0xMnoiIGZpbGw9IiNGRkYiLz4KPC9zdmc+Cg==" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Chroma%20DB-00AA00?style=for-the-badge&logo=chroma&logoColor=white" alt="Chroma DB"/>
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI"/>
 </p>
+
 
 # About 🧩
 Students and learners often struggle to reinforce their understanding of various topics and obtain timely feedback. To address this, an AI-generated assessment and quiz tool is developed to provide instant feedback and comprehensive explanations, dynamically generating quizzes based on user-provided documents to offer a tailored and user-friendly learning experience.
@@ -27,6 +28,8 @@ Students and learners often struggle to reinforce their understanding of various
 7. Navigate to `http://localhost:8501` in your web browser.
 
 # Demo 📷
+A short introduction video by Loom
+<iframe src="https://www.loom.com/embed/e3587cd1fec14d70bc0fd6e39a1585f2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen width="640" height="360"></iframe>
 
 # Acknowledgement
 This project is based on [mission-quizify](https://github.com/radicalxdev/mission-quizify).
