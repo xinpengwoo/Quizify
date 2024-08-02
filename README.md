@@ -28,8 +28,10 @@ Students and learners often struggle to reinforce their understanding of various
 7. Navigate to `http://localhost:8501` in your web browser.
 
 # Demo 📷
+
 A short introduction video by Loom
-<iframe src="https://www.loom.com/embed/e3587cd1fec14d70bc0fd6e39a1585f2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen width="640" height="360"></iframe>
+
+[![Watch the video](assets/video_thumbnail.png)](https://www.loom.com/share/e3587cd1fec14d70bc0fd6e39a1585f2)
 
 # Acknowledgement
 This project is based on [mission-quizify](https://github.com/radicalxdev/mission-quizify).

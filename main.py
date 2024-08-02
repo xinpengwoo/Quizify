@@ -9,7 +9,7 @@ if __name__ == "__main__":
     
     embed_config = {
         "model_name": "textembedding-gecko@003",
-        "project": "YOUR-PROJECT-ID",
+        "project": "quizzify-430709",
         "location": "us-central1"
     }
     screen = st.empty()
